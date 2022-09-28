@@ -1,6 +1,7 @@
 # Mini-Projects
 Here are some Mini-Projects on Web Development using MERN Stack
 These Projects are Based on Front End as well as some on Back End.
+
 Here I used some new technologies like :- 
 
   For FrontEnd --
